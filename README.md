@@ -1,5 +1,7 @@
 # Spring Boot Meme Generator
 
+![Alt text](./screenshot.jpg?raw=true "One Does Not Simply")
+
 This is an ENTIRE application for Java Spring Boot using:
 - Spring Data JPA
 - H2 Database
